@@ -14,7 +14,7 @@ I have been involved in industrial X-Ray and Synchrotron X-Ray Microtomography i
 
 The undegraduate research has given me an opportunity to work as an intern at the Brazilian Nanotechnology Light Laboratory ([LNNano](http://lnnano.cnpem.br)), where I developed [Gwyddion](htt://www.gwyddion.net) modules to the [Laboratory for Surface Science](http://lnnano.cnpem.br/laboratories/lcs) and contributed with a few patches like an [Otsu's threshold implementation](https://sourceforge.net/p/gwyddion/code/15479) and bugfixes like [this](https://sourceforge.net/p/gwyddion/code/16000). I also investigated Scanning Probe Microscopy (SPM) image artifacts and contributed to technical and [scientific publications](https://doi.org/10.1088/0957-4484/25/45/455603).
 
-![LNLS publications](https://github.com/vbarboza/vbarboza.github.com/blob/master/img/lnlnano.png)
+![LNLS publications](https://github.com/vbarboza/vbarboza.github.com/blob/master/img/lnnano.png)
 
 
 By the end of my graduation, I was hired as a Software Engineer at [Eldorado](http://www.eldorado.org.br/eldorado/?lang=en), working with Image Processing and Computer Vision R&D projects. Our team tackled precision agriculture problems with Python and Machine Learning on infrared images. Furthermore, I was involved in a research about fingerprint singular point extraction at the Institute of Computing in UNICAMP.
