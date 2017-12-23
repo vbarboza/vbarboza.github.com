@@ -10,9 +10,22 @@ B.Eng degree in Computer Engineering from [State University of Campinas](http://
 
 I have been involved in industrial X-Ray and Synchrotron X-Ray Microtomography image processing research at UNICAMP and the Brazilian Synchrotron Light Laboratory ([LNLS](http://www.lnls.cnpem.br)) as an undergraduate. Our results have been published [here](https://doi.org/10.1186/s13068-015-0229-8).
 
+<p align="center">
+  <img width=480 src="https://github.com/vbarboza/vbarboza.github.com/blob/master/img/lnls.png">
+</p>
+
 The undegraduate research has given me an opportunity to work as an intern at the Brazilian Nanotechnology Light Laboratory ([LNNano](http://lnnano.cnpem.br)), where I developed [Gwyddion](htt://www.gwyddion.net) modules to the [Laboratory for Surface Science](http://lnnano.cnpem.br/laboratories/lcs) and contributed with a few patches like an [Otsu's threshold implementation](https://sourceforge.net/p/gwyddion/code/15479) and bugfixes like [this](https://sourceforge.net/p/gwyddion/code/16000). I also investigated Scanning Probe Microscopy (SPM) image artifacts and contributed to technical and [scientific publications](https://doi.org/10.1088/0957-4484/25/45/455603).
 
-By the end of my graduation, I was hired as a Software Engineer at [Eldorado](http://www.eldorado.org.br/eldorado/?lang=en), working with Image Processing and Computer Vision R&D projects. Our team tackled precision agriculture problems with Python and Machine Learning on infrared images.
+<p align="center">
+  <img width=480 src="https://github.com/vbarboza/vbarboza.github.com/blob/master/img/lnnano.png">
+</p>
+
+
+By the end of my graduation, I was hired as a Software Engineer at [Eldorado](http://www.eldorado.org.br/eldorado/?lang=en), working with Image Processing and Computer Vision R&D projects. Our team tackled precision agriculture problems with Python and Machine Learning on infrared images. Furthermore, I was involved in a research about fingerprint singular point extraction at the Institute of Computing in UNICAMP.
+
+<p align="center">
+  <img width=480 src="https://github.com/vbarboza/vbarboza.github.com/blob/master/img/fp.png">
+</p>
 
 Then, as soon as I graduated I received an offer from [Credit Suisse](https://br.credit-suisse.com/site/index.seam) to move to São Paulo and work as a Software Engineer. There, I was responsible for designing and developing an SQL database application integrating systems from other areas in middle-office and back-office as funds management, operations and compliance. Currently, my software attends to more than 400 investment funds, supporting cashflow visualization, portfolio simulations and regulatory guidelines compliance.
 
