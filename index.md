@@ -2,6 +2,8 @@
 
 Human being, husband, dog person and cat owner working as an R&D Engineer at [Timpel](http://www.timpelmedical.com) - a medical devices company - mainly with embedded Linux, having experience on Image Processing, databases, Shell scripting, C, C#, Java, Python, Octave/MATLAB, kernel development and free and open-source software projects.
 
+You can check my LinkedIn [here](https://www.linkedin.com/in/barboza/en).
+
 ### Education
 
 B.Eng degree in Computer Engineering from [State University of Campinas](http://www.unicamp.br/unicamp/english), ranked 1st in [Times Higher Education Latin America University Rankings 2017](https://www.timeshighereducation.com/world-university-rankings/2017/latin-america-university-rankings).
@@ -25,4 +27,12 @@ Then, as soon as I graduated I received an offer from [Credit Suisse](https://br
 
 By the end of the year, I accepted a call to work with R&D again, developing embedded software for a national startup on medical devices industry. Our electrical impedance tomograph provides real-time images and measurements of regional distribution of ventilation at bedside, without radiation.
 
-You can check my [LinkedIn](https://www.linkedin.com/in/barboza/en).
+### Projects
+
+Currently, I have interest in Linux, Data Science, Machine Learning and Image Processing related projects and I have started upoading my personal projects to [my Github account](https://www.github.com/vbarboza), for instance:
+
+* [octave-fingercode](https://www.github.com/vbarboza) is a fingerprint matching algorithm from literature (Fingercode) I have implemented in MATLAB and now I am porting it to Octave.
+* [python-fingercode](https://www.github.com/vbarboza) is currently a single Jupyter notebook in which I am implementing the same Fingercode algorithm using scikit-image.
+* [minigl](https://github.com/vbarboza/minigl) is a small game engine written in Ruby by a friend with whom I contribute.
+
+You can also find a few programming exercises and projects in there. Oh, and my alternative Munchkin rules!
