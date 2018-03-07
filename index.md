@@ -23,9 +23,9 @@ By the end of my graduation, I was hired as a Software Engineer at [Eldorado](ht
 
 ![Fingerprint singular point extraction](https://github.com/vbarboza/vbarboza.github.com/blob/master/img/fp.png?raw=true)
 
-Then, as soon as I graduated I received an offer from [Credit Suisse](https://br.credit-suisse.com/site/index.seam) to move to São Paulo and work as a Software Engineer. There, I was responsible for designing and developing an SQL database application integrating systems from other areas in middle-office and back-office as funds management, operations and compliance. Currently, my software attends to more than 400 investment funds, supporting cashflow visualization, portfolio simulations and regulatory guidelines compliance.
+Then, as soon as I graduated I received an offer from [Credit Suisse](https://br.credit-suisse.com/site/index.seam) to move to São Paulo and work as a Software Engineer. There, I was responsible for designing and developing an SQL database application integrating systems from other areas in middle-office and back-office as funds management, operations and compliance. Currently, my software supports hundresds of investment funds checking regulatory guidelines compliance.
 
-By the end of the year, I accepted a call to work with R&D again, developing embedded software for a national startup on medical devices industry. Our electrical impedance tomograph provides real-time images and measurements of regional distribution of ventilation at bedside, without radiation.
+By the end of the year, I accepted a call to work with R&D again, developing embedded software for a national startup on medical devices industry. Our electrical impedance tomograph provides real-time images and measurements of regional ventilation distribution at bedside, without radiation.
 
 ### Projects
 
