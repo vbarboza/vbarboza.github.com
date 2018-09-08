@@ -1,6 +1,6 @@
 ## About me
 
-Full-time cat owner, ~~no-time piano, synths & keyboards~~ working with Research and Development at [IDwall](http://www.idwall.co). I code Python for web backend and image processing algorithms, also having experience on embedded Linux, kernel development, C, Shell scripting, and free and open-source software projects.
+Full-time husband and cat owner, ~~no-time piano, synths & keyboards~~ working with Research and Development at [IDwall](http://www.idwall.co). I code Python for web backend and image processing algorithms, also having experience on embedded Linux, kernel development, C, Shell scripting, and free and open-source software projects.
 
 You can check my LinkedIn [here](https://www.linkedin.com/in/barboza/en).
 
